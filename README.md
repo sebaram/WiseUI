@@ -8,6 +8,7 @@ ARRC-UVR Wise UI 통합 프로젝트
 - Application/
   - [WiseUIAppUnity](https://github.com/IkbeomJeon/WiseUI/tree/master/Applications/WiseUIAppUnity) 
     - Tcp 프로토콜을 이용해서 HoloLens2의 실시간 센싱 값들을 서버에 전송하고 처리된 결과를 화면에 출력하는 유니티 example.
+    - version: 2020.3.21f1 
 
   - [HttpCommunicationTestUnity](https://github.com/IkbeomJeon/WiseUI/tree/master/Applications/HttpCommunicationTestUnity)
     - Http 프로토콜을 이용해서 Sample Image 한장을 전송하고 처리된 결과를 수신받는 example.(아직 HoloLens2 입력으로 테스트 못함.)
